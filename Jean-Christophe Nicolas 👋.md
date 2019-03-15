@@ -22,7 +22,7 @@
 
 **Frontend**
 
-`ES6 Javascript` | `React` |  `Vue`  | `Vuex` | `NPM` | `Build Tools` | `CSS3` | `BEM` | `Flexbox` | `CSS Grid` | `HTML5` | `Jade` | `Eslint` | `Responsive Layouts` | `Git`
+`ES6 Javascript` | `React` |  `Vue`  | `Vuex` | `NPM` | `Build Tools` | `CSS3` | `BEM` | `Flexbox` | `CSS Grid` | `HTML5` | `Jade` | `Eslint` | `Responsive Layouts` 
 
 **Backend**
 
@@ -36,7 +36,7 @@
 
 **Management**
 
-`SCRUM` | `Jira` | `Agile` | `Standup` | `Trello` | `Markdown` | `TDD`
+`SCRUM` | `Jira` | `Agile` | `Standup` | `Trello` | `Markdown` | `TDD` | `Git`
 
 
 
