@@ -64,8 +64,6 @@ I like my code modular and resuable; always making snippet notes. I like to shar
 
 ## Experience Roadmap ⚡
 
-**⏰Jan 2019**
-
 ### ScanLAB Projects
 
 **Web Developer** : `3 years` _Full Time_
