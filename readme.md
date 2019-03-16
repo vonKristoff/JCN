@@ -22,7 +22,7 @@
 
 **Frontend**
 
-`ES6 Javascript` | `React` |  `Vue`  | `Vuex` | `NPM` | `Build Tools` | `CSS3` | `BEM` | `Flexbox` | `CSS Grid` | `HTML5` | `Jade` | `Eslint` | `Responsive Layouts` | `Git`
+`ES6 Javascript` | `React` |  `Vue`  | `Vuex` | `NPM` | `Build Tools` | `CSS3` | `BEM` | `Flexbox` | `CSS Grid` | `HTML5` | `Jade` | `Eslint` | `Responsive Layouts` 
 
 **Backend**
 
@@ -36,7 +36,7 @@
 
 **Management**
 
-`SCRUM` | `Jira` | `Agile` | `Standup` | `Trello` | `Markdown` | `TDD`
+`SCRUM` | `Jira` | `Agile` | `Standup` | `Trello` | `Markdown` | `TDD` | `Git`
 
 
 
@@ -63,8 +63,6 @@ I like my code modular and resuable; always making snippet notes. I like to shar
 
 
 ## Experience Roadmap ⚡
-
-**⏰Jan 2019**
 
 ### ScanLAB Projects
 
