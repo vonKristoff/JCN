@@ -72,14 +72,16 @@ I like my code modular and resuable; always making snippet notes. I like to shar
 
 As Web Developer amongst a multi disciplonary team of Artists, Architects, Photographers and Engineers, I was responsible to bring the best of web technologies into the upcoming accomplishments created at ScanLAB. This meant my role would need to adapt to cover new ground and look at using the web in whatever capacity it could suit an upcoming project that would be using the cutting edge in-house software to render Pointcloud data as a story driven aesthetic. From building in-house tools to aid productivity for the rest of the team, to standalone web based applications as exhibits in Museums, I would need to be self motivated to design, architect and build within a fluid environment.
 
-* The Postal Museum - MailRail Digital Interactive (SPA)
-* The Sir John Soane Museum - A Museum Made Digital (SPA)
-* Mobile Application for National Geographic (Mobile)
-* Client Delivery Interface (API | Client) - A preview media system with version control, commenting and video transcoding
+* The Postal Museum - MailRail Digital Museum Interactive (SPA | `React`) 
+* The Sir John Soane Museum - A Museum Made Digital (SPA | `Vue`, `Vuex`)
+* Mobile Application for National Geographic (Mobile | `Vanila JS - ES6`)
+* Client Delivery Interface (API | Client) - A preview media system with version control, commenting and video transcoding `Vue`, `Vuex`, `Firebase`, `AWS`, `Express`, `Trello API`
 
 ---
 
 ### Crisis
+
+`AWS Lambda`,  `HTML`
 
 **Web Developer** : `2 months` _Contract_
 
@@ -89,6 +91,8 @@ As Web Developer amongst a multi disciplonary team of Artists, Architects, Photo
 
 ### Shelter
 
+`Angular 1`, `Wordpress API`
+
 **Web Developer** : `2 months` _Contract_
 
 > An interactive survey, capturing user submitions and populating a bespoke profile based on the aggregated results.
@@ -96,6 +100,8 @@ As Web Developer amongst a multi disciplonary team of Artists, Architects, Photo
 ---
 
 ### Inamo
+
+`Meteor`, `Vanilla JS`
 
 **Web Developer** : `1 month` _Contract_
 
@@ -109,6 +115,8 @@ The purpose of the SPA is a layout manager, that is in charge of queing animatio
 
 ### NeverBland, for Bulb Energy
 
+`Angular 1` 
+
 **Frontend Developer** : `3 months` _Contract_
 
 > *A site with multiple applications, allowing a user to switch their energy supplier, and manage subsequent data usage etc through an online dashboard.*
@@ -121,6 +129,8 @@ I was able to contribute to the build of the stack, by introducing Gulp and Jade
 
 ### Just So
 
+`Vanilla JS`
+
 **Frontend Developer** : `1 year` _Freelance_
 
 * Farfetch (*Winner of Best use of Fashion in Media, Berlin Film Festival 2015*)
@@ -132,6 +142,8 @@ I was able to contribute to the build of the stack, by introducing Gulp and Jade
 
 ### Eprop
 
+`Angular 1`
+
 **Frontend Developer** : `1 year` _Full Time_
 
 > *A giant property portal website that promises to challenge the massive UK estate agent market by allowing the property owner sell or let their property online.*
@@ -139,6 +151,8 @@ I was able to contribute to the build of the stack, by introducing Gulp and Jade
 ---
 
 ### Harmony Park, for Microsoft
+
+`Backbone JS`, `Canvas`
 
 **Javascript Developer** : `4 months` _Contract_
 
